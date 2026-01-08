@@ -1,0 +1,21 @@
+{
+  "name": "js-log-manager",
+  "version": "1.0.0",
+  "description": "lightweight logging app that handles the life cycle of a log",
+  "keywords": [
+    "logging",
+    "log",
+    "manager",
+    "logger"
+  ],
+  "license": "ISC",
+  "author": "John Spriggs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-cron": "^4.2.1"
+  }
+}
